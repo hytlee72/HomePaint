@@ -32,6 +32,12 @@ var initialHouses = [
 
 			house2Src: 'img/house/house_greige.jpg',
 			buttonSrc: 'img/buttons/greige.png'
+		},
+
+		{
+
+			house2Src: 'img/house/house_charcoal.jpg',
+			buttonSrc: 'img/buttons/charcoal.png'
 		}
 	];
 
